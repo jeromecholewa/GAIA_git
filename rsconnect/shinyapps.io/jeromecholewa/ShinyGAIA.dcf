@@ -1,0 +1,12 @@
+name: ShinyGAIA
+title: ShinyGAIA
+username:
+account: jeromecholewa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 193668
+bundleId: 1518118
+url: https://jeromecholewa.shinyapps.io/ShinyGAIA/
+when: 1533382058.60086
+asMultiple: FALSE
+asStatic: FALSE
